@@ -11,4 +11,3 @@ days.
 also taken into account.
 • Language used: Python
 
-Project team: Shikhar Gupta, Akakini Agnihotri, Panchanan Pyare Singh, Vartika Agarwal
